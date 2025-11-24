@@ -41,16 +41,7 @@ Hi! I'm **Parsa Ghandali** — a software engineer exploring and data analyst
 
 ---
 
-## 🖥 Tools & IDEs
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/><br>VS Code
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60" alt="PyCharm"/><br>PyCharm
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/><br>Git
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" alt="Visual Studio"/><br>Visual Studio
-</p>
-
----
 
 ## 🎓 Education
 

@@ -16,7 +16,98 @@ Hi! I'm **Parsa Ghandali** — a software engineer exploring and data analyst
 
 ### Heart Disease Risk Predictor + LLM Assistant
 - Predicts heart disease risk using **Logistic Regression**  
+- Understands free-text symptoms via a **Llama-based LLM**  Hi! I'm **Parsa Ghandali** — a software engineer exploring and data analyst 
+
+**Machine Learning, Neural Networks, and end-to-end ML + LLM applications**.
+
+  
+
+- 🧠 Software Engineering student at **QIAU** (GPA: 17.1)
+
+- 🤖 Focused on **Machine Learning, LLMs, and Applied AI**
+
+- 🎯 Aiming to pursue a **Master’s in Machine Learning**
+
+---
+
+## 🚀 Featured Project
+
+### Heart Disease Risk Predictor + LLM Assistant
+- Predicts heart disease risk using **Logistic Regression**  
 - Understands free-text symptoms via a **Llama-based LLM**  
+- Interactive **Streamlit** UI  
+
+**Tech Stack:**  
+`Python`, `scikit-learn`, `Llama`, `LangChain`, `Streamlit`, `NumPy`, `Pandas`
+
+---
+
+## 🛠 Frameworks & Libraries
+
+<table border="0" cellpadding="10" cellspacing="0" align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/><br>C++
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/><br>TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="scikit-learn"/><br>scikit-learn
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/O/ollama-logo-633C142079-seeklogo.com.png" width="60" height="60" alt="Ollama"/><br>Ollama
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60" height="60" alt="OpenAI"/><br>OpenAI
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/LangChain_logo.svg" width="60" height="60" alt="LangChain"/><br>LangChain
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/><br>Pandas
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/><br>NumPy
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60" alt="Matplotlib"/><br>Matplotlib
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
+## 🎓 Education
+
+**B.Sc. Software Engineering — QIAU**  
+GPA: 17.1 / 20
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:parsa.ghandali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-parsa.ghandali@gmail.com-red?style=for-the-badge&logo=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/jhiiro">
+    <img src="https://img.shields.io/badge/GitHub-jhiiro-black?style=for-the-badge&logo=github" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parsa-ghandali-7a84a4350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Parsa%20Ghandali-blue?style=for-the-badge&logo=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+Thanks for stopping by — always building, always learning 🚀
+
 - Interactive **Streamlit** UI  
 
 **Tech Stack:**  

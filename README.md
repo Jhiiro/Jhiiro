@@ -4,7 +4,7 @@ Hi! I'm **Parsa Ghandali** — a software engineer exploring and data analyst
 
   
 
-- 🧠 Software Engineering student at **QIAU** (GPA: 17.1)
+- 🧠 Software Engineering student at **QIAU** (GPA: 17.6)
 
 - 🤖 Focused on **Machine Learning, LLMs, and Applied AI**
 

@@ -46,7 +46,7 @@ Hi! I'm **Parsa Ghandali** — a software engineer exploring and data analyst
 ## 🎓 Education
 
 **B.Sc. Software Engineering — QIAU**  
-GPA: 17.1 / 20
+GPA: 17.6 / 20
 
 ---
 
